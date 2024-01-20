@@ -2,25 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD student at Indian Indian Institute of Science, Bangalore.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: Jayabrata.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>jayabratac@iisc.ac.in</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+Hello! Wwlcome to my website.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+This website is getting updated. Please stay tuned.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a graduate student at the [Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science (IISc), Bangalore](https://cps.iisc.ac.in/), guided by Prof. Suresh Sundaram in the Artificial Intelligence and Robotics Lab (AIRL). My path to IISc began with a B. Tech in Electrical Engineering in 2018, and now I'm driven by a passion for developing safe and robust algorithms for autonomous systems.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My graduate research focuses on predictive planning using Deep Learning, including a scalable uncertainty-aware algorithm (supported by the **Qualcomm Innovation Fellowship**). I honed my skills by transforming real-world autonomous system challenges into modular Machine Learning problems during my work at **WIPRO IISc Research Innovation Network (WIRIN)**. This project earned me the **RBCCPS PhD Fellowship** and the [best poster award at the Annual Symposium on Cyber-Physical Systems](https://drive.google.com/file/d/1xYMF2gnnj_yXeIjtYvKkgS3vwTjEz-LQ/view).
+
+My passion for problem-solving extends beyond robotic artificial intelligence. In the financial domain, I tackled the challenge of making decisions in volatile markets by building a probabilistic model for the WorldQuant Challenge, earning a [Gold Level certificate](https://drive.google.com/file/d/1wva-KfSz5JisRU_Gl4bEVTsuvLVmR-20/view). I am also interested in Natural Language Processing and Graph Machine Learning. 
+
