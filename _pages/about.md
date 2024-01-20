@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student at Indian Indian Institute of Science, Bangalore.
+subtitle: PhD student at Indian Institute of Science, Bangalore.
 
 profile:
   align: right
