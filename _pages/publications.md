@@ -2,10 +2,9 @@
 layout: page
 permalink: /publications/
 title: publications
-title_link: https://scholar.google.com/citations?user=x1UMe8EAAAAJ
-title_icon: ai ai-google-scholar
+description:
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
 \* denotes equal contribution and joint lead authorship.
