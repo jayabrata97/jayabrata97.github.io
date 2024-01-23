@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-The paper GP3Net accepted at **Annual AAAI Conference on Artificial Intelligence 2024**
+The paper [GP3Net](https://arxiv.org/pdf/2312.05784.pdf) accepted at **Annual AAAI Conference on Artificial Intelligence 2024**
