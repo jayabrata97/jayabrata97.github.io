@@ -27,9 +27,8 @@
   "education": [
     {
       "institution": "Indian Institute of Science, Bangalore",
-      "location": "Bangalore, India",
       "url": "https://iisc.ac.in/",
-      "area": "Cyber-Physical Systems",
+      "area": "Applied Machine Learning",
       "studyType": "PhD",
       "startDate": "2019-08",
       "endDate": "",
@@ -46,7 +45,6 @@
     },
     {
       "institution": "Kalyani Government Engineering College",
-      "location": "Kalyani, India",
       "url": "",
       "area": "Electrical Engineering",
       "studyType": "B.Tech",
@@ -216,7 +214,19 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Natural Language Processing",
-        "Graph Machine Learning"
+        "Graph Machine Learning",
+        "Reinforcement Learning",
+        "Meta-Learning"
+      ]
+    },
+    {
+      "name": "Analytics and intelligent decision making",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Predictive analysis",
+        "Recommendation systems",
+        "Autonomous systems",
+        "Data Science"
       ]
     }
   ],

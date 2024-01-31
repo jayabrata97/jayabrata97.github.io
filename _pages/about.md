@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PhD student at Indian Institute of Science, Bangalore.
+subtitle: PhD Researcher | Machine Learning | Intelligent Autonomous Systems
 
 profile:
   align: right
@@ -17,8 +17,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 Hello! Welcome to my website.
-
-This website is getting updated. Please stay tuned.
 
 I am a graduate student at the [Robert Bosch Centre for Cyber-Physical Systems, Indian Institute of Science (IISc), Bangalore](https://cps.iisc.ac.in/), guided by Prof. Suresh Sundaram in the Artificial Intelligence and Robotics Lab (AIRL). My path to IISc began with a B. Tech in Electrical Engineering in 2018, and now I'm driven by a passion for developing safe and robust algorithms for autonomous systems.
 
